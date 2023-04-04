@@ -1,2 +1,0 @@
-# AVQG-thesis
-master thesis
